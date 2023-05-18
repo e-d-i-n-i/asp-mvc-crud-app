@@ -1,0 +1,12 @@
+﻿namespace ASP_DOT_NET_MVC_CRUD_APPLICATION.Models
+{
+    public class AddEmployeeViewModel
+    {
+        
+        public string Name { get; set; }
+        public string Email { get; set; }
+        public double Salary { get; set; }
+        public DateTime DateOfBirth { get; set; }
+        public string Department { get; set; }
+    }
+}

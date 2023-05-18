@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ASP-DOT-NET-MVC-CRUD-APPLICATION.props" />
+</Project>
